@@ -1,2 +1,5 @@
 # WhatsApp-word-cloud-generator
-Create a nice looking word cloud from a downloaded .txt file containing the chat between two people. 
+Create a nice looking word cloud from a WhatsApp chat downloaded to a .txt file. 
+
+# Requirements
+
