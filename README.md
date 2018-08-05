@@ -8,6 +8,6 @@ Create a nice looking word cloud from a WhatsApp chat downloaded to a .txt file.
 
 # Installation and Running
 1. Export a WhatsApp converstation by following this guide: https://toolbox.iskysoft.com/iphone-recovery/whatsapp-messages-download.html
-2. Place the downloaded WhatsApp chat into a new empty folder.
+2. Place the downloaded WhatsApp chat into a new empty folder, call the file "text.txt", otherwise you'll need to change the name of the input file within the python script.
 3. Download the [python script from this repo](word_cloud_gen_whatsapp.py) and place it into your newly created folder. 
 4. Run the script
